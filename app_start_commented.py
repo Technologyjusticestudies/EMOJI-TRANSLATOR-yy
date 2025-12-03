@@ -62,6 +62,9 @@ st.markdown("---")  # Adds a horizontal line
 # We store whatever the user types in a variable called `user_input`.
 #
 user_input = st.text_input("Enter your text to translate:")
+if "secret" in user_input.lower():
+    st.write("🎉 YOU FOUND THE SECRET! 🎉")
+
 
 # --- 6. "TRANSLATE" THE TEXT ---
 # This is where the main logic happens!
