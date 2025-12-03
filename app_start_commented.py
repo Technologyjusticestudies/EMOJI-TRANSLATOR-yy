@@ -36,8 +36,9 @@ EMOJI_DICT = {
     "coding": "💻",
     "win": "🏆",
     "python": "🐍",
-    "fire": "🔥"
+    "fire": "🔥",
     # Students can add more!
+    "cool": random.choice(["😎", "🤙", "🆒"])
 }
 
 # ------------------------------------
