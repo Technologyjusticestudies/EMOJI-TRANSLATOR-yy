@@ -55,8 +55,8 @@ EMOJI_DICT = {
     # Students can add more!
     "cool": random.choice(["😎", "🤙", "🆒"]),
     "asian food": random.choice(["🍜", "🍚", "🍥", "🥮",]),
-    "animals": random.choice(["🐏", "🐖", "🐓", "🐄", "🐎",])
-    "sports": random.choice(["⚽️", "🏀", "🏈", "⚾️", "🏐",])
+    "animals": random.choice(["🐏", "🐖", "🐓", "🐄", "🐎",]),
+    "sports": random.choice(["⚽️", "🏀", "🏈", "⚾️", "🏐",]),
 }
 
 # ------------------------------------
